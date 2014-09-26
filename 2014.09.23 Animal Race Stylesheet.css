@@ -1,0 +1,15 @@
+button#Start {
+	align: "center";
+}
+
+p {
+	color: #000066;
+}
+
+button#Start:hover {
+	font-weight: bold;
+}
+
+body {
+	background-color: #999999;
+}
